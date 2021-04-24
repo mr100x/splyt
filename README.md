@@ -24,12 +24,12 @@ SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 [SHOPX coinmarketcap](https://coinmarketcap.com/currencies/splyt/)  
 
 ## social media
-[Splyt Core Foundation](https://www.splytcore.org/) - 
-[Telegram](https://t.me/splytcore) - 
-[![][1.1]][1] - 
-[![][6.1]][6] - 
-[Medium](https://medium.com/splytcore) - 
-[Linkedin](https://www.linkedin.com/company/splytcore/mycompany/)
+[Splyt Core Foundation](https://www.splytcore.org/)  
+[Telegram](https://t.me/splytcore)  
+[![][1.1]][1]  
+[![][6.1]][6]  
+[Medium](https://medium.com/splytcore)  
+[Linkedin](https://www.linkedin.com/company/splytcore/mycompany/)  
 
 
 
