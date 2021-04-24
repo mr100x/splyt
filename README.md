@@ -7,8 +7,10 @@ may 19-20 [polkadot decoded event](https://decoded.polkadot.network/results/)
 
 ## contract
 SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848  
-[techpaper](https://github.com/mr100x/splyt/blob/main/Splyt%20Technical%20Paper.pdf)  
-[whitepaper](https://github.com/mr100x/splyt/blob/main/WP%20The%20E-Commerce%20eNFT%C2%AE%20Infrastructure.pdf)  
+[Techpaper](https://github.com/mr100x/splyt/blob/main/Splyt%20Technical%20Paper.pdf)  
+[Whitepaper](https://github.com/mr100x/splyt/blob/main/WP%20The%20E-Commerce%20eNFT%C2%AE%20Infrastructure.pdf)  
+[![Youtube](https://img.youtube.com/vi/gOur7pm6yl0/0.jpg)](https://www.youtube.com/watch?v=gOur7pm6yl0)
+
 
 ## links
 
@@ -24,8 +26,8 @@ SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 
 ## social media
 [Splyt Core Foundation](https://www.splytcore.org/) - 
-[telegram](https://t.me/splytcore) - 
-[twitter](https://twitter.com/splytcore) - 
-[github](https://github.com/splytcore) - 
-[medium](https://medium.com/splytcore) - 
-[linkedin](https://www.linkedin.com/company/splytcore/mycompany/)
+[Telegram](https://t.me/splytcore) - 
+[Twitter](https://twitter.com/splytcore) - 
+[Github](https://github.com/splytcore) - 
+[Medium](https://medium.com/splytcore) - 
+[Linkedin](https://www.linkedin.com/company/splytcore/mycompany/)
