@@ -11,16 +11,16 @@ Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 [Techpaper](https://github.com/mr100x/splyt/blob/main/Splyt%20Technical%20Paper.pdf)  
 [Whitepaper](https://github.com/mr100x/splyt/blob/main/WP%20The%20E-Commerce%20eNFT%C2%AE%20Infrastructure.pdf)  
 
-## SHOPX links
+## shopx links
 
 [Etherscan](https://etherscan.io/token/0x7bef710a5759d197ec0bf621c3df802c2d60d848?a=0xd94f0c56624646a549565636c54bcba566718067)  
 [Token](https://www.splytgenesis.com/#shopx) - 
-[Token metrics](https://www.splytgenesis.com/#metrics) - 
+[Metrics](https://www.splytgenesis.com/#metrics) - 
 [FAQ](https://www.splytgenesis.com/#faq) - 
 [Dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x37ac54dc7dd237eecfd0b61efdd57b15fe158be0) - 
-[![][7.1]][7] - 
-[![][8.1]][8] - 
-[![][9.1]][9] 
+[![][7.1]][7] 
+ [![][8.1]][8] 
+ [![][9.1]][9] 
 
 ## socials 
 [![][1.1]][1] 
