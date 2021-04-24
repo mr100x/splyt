@@ -3,7 +3,7 @@
 This is a loyal fan's collection nothing here is posted by the team itself :)  
 may 19-20 [polkadot decoded event](https://decoded.polkadot.network/results/)  
 
-## understanding decentralized e-commerce
+## 
 [![Youtube](https://img.youtube.com/vi/gOur7pm6yl0/0.jpg)](https://www.youtube.com/watch?v=gOur7pm6yl0)  
 
 ## contract
