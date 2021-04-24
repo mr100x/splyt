@@ -6,7 +6,9 @@ may 19-20 [polkadot decoded event](https://decoded.polkadot.network/results/)
 ## understanding decentralized e-commerce
 
 ## contract
-SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
+SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848  
+[techpaper](blob/main/Splyt%20Technical%20Paper.pdf)  
+[whitepaper](blob/main/WP%20The%20E-Commerce%20eNFT%C2%AE%20Infrastructure.pdf)  
 
 ## links
 
