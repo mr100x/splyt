@@ -4,13 +4,12 @@ This is a loyal fan's collection nothing here is posted by the team itself :)
 may 19-20 [polkadot decoded event](https://decoded.polkadot.network/results/)  
 
 ## understanding decentralized e-commerce
+[![Youtube](https://img.youtube.com/vi/gOur7pm6yl0/0.jpg)](https://www.youtube.com/watch?v=gOur7pm6yl0)  
 
 ## contract
 SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848  
 [Techpaper](https://github.com/mr100x/splyt/blob/main/Splyt%20Technical%20Paper.pdf)  
 [Whitepaper](https://github.com/mr100x/splyt/blob/main/WP%20The%20E-Commerce%20eNFT%C2%AE%20Infrastructure.pdf)  
-[![Youtube](https://img.youtube.com/vi/gOur7pm6yl0/0.jpg)](https://www.youtube.com/watch?v=gOur7pm6yl0)
-
 
 ## links
 
