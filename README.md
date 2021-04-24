@@ -32,11 +32,8 @@ SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 [Linkedin](https://www.linkedin.com/company/splytcore/mycompany/)  
 
 
-![telegram](https://raw.github.com/mr100x/splyt/icons/telegram.svg?sanitize=true)<img src="https://raw.github.com/mr100x/splyt/icons/telegram.svg?sanitize=true">
+![telegram](https://www.github.com/splytcore/)
 
-
-<!-- links to social media icons -->
-<!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
