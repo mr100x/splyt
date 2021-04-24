@@ -24,27 +24,24 @@ SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 [SHOPX coinmarketcap](https://coinmarketcap.com/currencies/splyt/)  
 
 ## social media
-[Splyt Core Foundation](https://www.splytcore.org/)  
-[![][5.1]][5]  
 [![][1.1]][1]  
+[![][2.1]][1]  
+[![][3.1]][1]  
+[![][4.1]][1]  
+[![][5.1]][5]  
 [![][6.1]][6]  
-[Medium](https://medium.com/splytcore)  
-[Linkedin](https://www.linkedin.com/company/splytcore/mycompany/)  
 
+[1.1]: img/icons/twitter.png (twitter)  
+[2.1]: img/icons/web.png (web)  
+[3.1]: imd/icons/linkedin.png (linkedin)  
+[4.1]: img/icons/github.png (github)  
+[5.1]: img/icons/telegram.png (telegram)  
+[6.1]: img/icons/medium.png (medium)  
 
-![telegram](https://www.github.com/splytcore/)
+[1]: https://www.twitter.com/splytcore   
+[2]: https://www.splytcore.org/   
+[3]: https://www.linkedin.com/company/splytcore   
+[4]: https://github.com/splytcore   
+[5]: https://t.me/splytcore   
+[6]: https://medium.com/splytcore   
 
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
-[3.1]: http://i.imgur.com/yCsTjba.png (google)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr)
-[5.1]: http://icons8.com/icon/85466/telegram-app (telegram)
-[6.1]: http://i.imgur.com/0o48UoR.png (github)
-
-[1]: https://www.twitter.com/splytcore
-[2]: https://www.facebook.com/splytcore
-[3]: https://plus.google.com/+splytcore
-[4]: https://splyt.tumblr.com
-[5]: https://t.me/splytcore
-[6]: https://www.github.com/splytcore/
