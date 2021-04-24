@@ -1,6 +1,6 @@
 # [Splyt](https://www.splytcore.org/)
-## THE LAYER-2 NFT INFRASTRUCTURE TO DECENTRALIZE THE E-COMMERCE SUPPLY CHAIN
-
+## LAYER-2 NFT INFRASTRUCTURE TO DECENTRALIZE E-COMMERCE
+This is a loyal fan's collection nothing here is posted by the team itself :)
 
 
 ## understanding decentralized e-commerce
