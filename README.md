@@ -1,7 +1,7 @@
 # [Splyt](https://www.splytcore.org/)
 ## LAYER-2 NFT INFRASTRUCTURE TO DECENTRALIZE E-COMMERCE
 This is a loyal fan's collection nothing here is posted by the team itself :)  
-[polkadot decoded event](https://decoded.polkadot.network/results/)  
+may 19-20 [polkadot decoded event](https://decoded.polkadot.network/results/)  
 
 ## understanding decentralized e-commerce
 
