@@ -14,10 +14,13 @@ Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 ## SHOPX links
 
 [Etherscan](https://etherscan.io/token/0x7bef710a5759d197ec0bf621c3df802c2d60d848?a=0xd94f0c56624646a549565636c54bcba566718067)  
-[Token](https://www.splytgenesis.com/#shopx) 
-[Token metrics](https://www.splytgenesis.com/#metrics) 
-[FAQ](https://www.splytgenesis.com/#faq) 
-[Dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x37ac54dc7dd237eecfd0b61efdd57b15fe158be0) 
+[Token](https://www.splytgenesis.com/#shopx) - 
+[Token metrics](https://www.splytgenesis.com/#metrics) - 
+[FAQ](https://www.splytgenesis.com/#faq) - 
+[Dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x37ac54dc7dd237eecfd0b61efdd57b15fe158be0) - 
+[![][7.1]][7] - 
+[![][8.1]][8] - 
+[![][9.1]][9] 
 
 ## socials 
 [![][1.1]][1] 
@@ -26,9 +29,6 @@ Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 [![][4.1]][4] 
 [![][5.1]][5] 
 [![][6.1]][6] 
-[![][7.1]][7] 
-[![][8.1]][8] 
-[![][9.1]][9] 
 
 [1.1]: img/icons/twitter.png (twitter) 
 [2.1]: img/icons/web.png (web) 
