@@ -24,24 +24,24 @@ SHOPX Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 [SHOPX coinmarketcap](https://coinmarketcap.com/currencies/splyt/)  
 
 ## social media
-[![][1.1]][1]  
-[![][2.1]][1]  
-[![][3.1]][1]  
-[![][4.1]][1]  
-[![][5.1]][5]  
-[![][6.1]][6]  
+[![][1.1]][1] 
+[![][2.1]][1] 
+[![][3.1]][1] 
+[![][4.1]][1] 
+[![][5.1]][5] 
+[![][6.1]][6] 
 
-[1.1]: img/icons/twitter.png (twitter)  
-[2.1]: img/icons/web.png (web)  
-[3.1]: imd/icons/linkedin.png (linkedin)  
-[4.1]: img/icons/github.png (github)  
-[5.1]: img/icons/telegram.png (telegram)  
+[1.1]: img/icons/twitter.png (twitter) 
+[2.1]: img/icons/web.png (web) 
+[3.1]: imd/icons/linkedin.png (linkedin) 
+[4.1]: img/icons/github.png (github) 
+[5.1]: img/icons/telegram.png (telegram) 
 [6.1]: img/icons/medium.png (medium)  
 
-[1]: https://www.twitter.com/splytcore  
-[2]: https://www.splytcore.org/  
-[3]: https://www.linkedin.com/company/splytcore  
-[4]: https://github.com/splytcore  
-[5]: https://t.me/splytcore  
-[6]: https://medium.com/splytcore  
+[1]: https://www.twitter.com/splytcore 
+[2]: https://www.splytcore.org/ 
+[3]: https://www.linkedin.com/company/splytcore 
+[4]: https://github.com/splytcore 
+[5]: https://t.me/splytcore 
+[6]: https://medium.com/splytcore 
 
