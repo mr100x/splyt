@@ -18,17 +18,17 @@ Official ERC-20 Contract is 0x7bef710a5759d197ec0bf621c3df802c2d60d848
 [Token metrics](https://www.splytgenesis.com/#metrics) 
 [FAQ](https://www.splytgenesis.com/#faq) 
 [Dextools](https://www.dextools.io/app/uniswap/pair-explorer/0x37ac54dc7dd237eecfd0b61efdd57b15fe158be0) 
-[![][7.1]][7] 
-[![][8.1]][8] 
-[![][9.1]][9] 
 
-## social media
+## socials 
 [![][1.1]][1] 
 [![][2.1]][2] 
 [![][3.1]][3] 
 [![][4.1]][4] 
 [![][5.1]][5] 
 [![][6.1]][6] 
+[![][7.1]][7] 
+[![][8.1]][8] 
+[![][9.1]][9] 
 
 [1.1]: img/icons/twitter.png (twitter) 
 [2.1]: img/icons/web.png (web) 
